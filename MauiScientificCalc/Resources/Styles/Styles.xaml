@@ -24,7 +24,7 @@
     <Style TargetType="Button" x:Key="NumberButtonStyle" >
         <Setter Property="FontSize" Value="22" />
         <Setter Property="FontFamily" Value="RegularFont" />
-        <Setter Property="" Value="" />
+
         <Setter Property="TextColor" Value="White" />
         <Setter Property="BackgroundColor" Value="#202731" />
         <Setter Property="BorderWidth" Value="0" />
